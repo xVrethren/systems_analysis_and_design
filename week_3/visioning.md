@@ -1,1 +1,0 @@
-# Agile Development Lifecycle - Visioning
